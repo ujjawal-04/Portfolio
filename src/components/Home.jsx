@@ -77,8 +77,8 @@ export default function Home() {
               initial={{ opacity: 0, y: -20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2, duration: 0.8 }}
-              className="text-5xl sm:text-6xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-blue-400 mt-20"
-              style={{ fontFamily: 'Poppins, sans-serif' }}
+              className="text-5xl sm:text-6xl md:text-7xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-blue-400 mt-20"
+              style={{ fontFamily: 'Poppins, sans-serif' ,  lineHeight: '1.2'}}
             >
               Hi, I'm Ujjawal
             </motion.h1>

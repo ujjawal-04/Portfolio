@@ -14,16 +14,16 @@ const projects = [
     description: 'A platform providing notes to students, built with Next.js and Firebase.',
     image: '/image/webnotes.JPG',
     link: 'https://webnotesss.vercel.app/',
-    github: 'https://github.com/yourusername/webnotes',
+    github: 'https://github.com/Ujjawal-04/webnotes',
     tech: ['Next.js', 'Firebase', 'Tailwind CSS']
   },
   {
     title: 'OpenChat',
-    description: 'A fitness tracking platform built with React frontend and MERN stack backend.',
+    description: 'A customizable chatbot solution',
     image: '/image/openchat.JPG',
     link: 'https://open-chatt.vercel.app/',
     github: 'https://github.com/Ujjawal-04/OpenChat-Frontend',
-    tech: ['Nextjs', 'Tailwind CSS', 'Firebase', 'Machine Learning']
+    tech: ['Nextjs', 'Tailwind CSS', 'Firebase', 'Machine Learning', 'LangGraph']
   },
   {
     title: 'Acme Rockets',
@@ -34,12 +34,12 @@ const projects = [
     tech: ['HTML', 'Tailwind CSS', 'JavaScript']
   },
   {
-    title: 'Color Finder',
-    description: 'A color matching tool built with HTML, CSS, and JavaScript.',
-    image: '/image/color.JPG',
-    link: 'https://color-finder-ruby.vercel.app/',
-    github: 'https://github.com/Ujjawal-04/Color-Finder',
-    tech: ['HTML', 'CSS', 'JavaScript']
+    title: 'Soulscape',
+    description: 'A gateway to experiencing the magic of India.',
+    image: '/image/soulscape.JPG',
+    link: 'https://soulscape123.vercel.app/',
+    github: 'https://github.com/Ujjawal-04/soulscape',
+    tech: ['NextJs', 'Tailwind CSS', 'Json','EmailJS']
   },
 ]
 
