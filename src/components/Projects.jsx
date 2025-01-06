@@ -23,15 +23,7 @@ const projects = [
     image: '/image/openchat.JPG',
     link: 'https://open-chatt.vercel.app/',
     github: 'https://github.com/Ujjawal-04/OpenChat-Frontend',
-    tech: ['Nextjs', 'Tailwind CSS', 'Firebase', 'Machine Learning', 'LangGraph']
-  },
-  {
-    title: 'Acme Rockets',
-    description: 'A frontpage website designed using Tailwind CSS.',
-    image: '/image/acme.JPG',
-    link: 'https://tailwind-css-steel.vercel.app/',
-    github: 'https://github.com/Ujjawal-04/Tailwind-CSS',
-    tech: ['HTML', 'Tailwind CSS', 'JavaScript']
+    tech: ['Next.js', 'Tailwind CSS', 'Firebase', 'Machine Learning', 'LangGraph']
   },
   {
     title: 'Soulscape',
@@ -39,7 +31,15 @@ const projects = [
     image: '/image/soulscape.JPG',
     link: 'https://soulscape123.vercel.app/',
     github: 'https://github.com/Ujjawal-04/soulscape',
-    tech: ['NextJs', 'Tailwind CSS', 'Json','EmailJS']
+    tech: ['Next.js', 'Tailwind CSS', 'JSON','EmailJS']
+  },
+  {
+    title: 'DataHub',
+    description: 'A HUb for learning types of data structure & Algo\'s\'.',
+    image: '/image/datahub.JPG',
+    link: 'https://data-structure-hub.vercel.app/',
+    github: 'https://github.com/ujjawal-04/DataHub',
+    tech: ['Next.js', 'Tailwind CSS', 'TypeScript']
   },
 ]
 

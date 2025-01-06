@@ -14,7 +14,7 @@ const webDevSkills = [
 
 const programmingLanguages = [
   { name: 'Python', icon: '/icon/python.png' },
-  { name: 'C/C++', icon: '/icon/c.png' },
+  { name: 'C++', icon: '/icon/c.png' },
   { name: 'Java', icon: '/icon/java.png' },
 ]
 
