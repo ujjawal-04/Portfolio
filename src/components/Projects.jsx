@@ -18,11 +18,11 @@ const projects = [
     tech: ['Next.js', 'Firebase', 'Tailwind CSS']
   },
   {
-    title: 'OpenChat',
+    title: 'ChatForge',
     description: 'A customizable chatbot solution',
-    image: '/image/openchat.JPG',
-    link: 'https://open-chatt.vercel.app/',
-    github: 'https://github.com/Ujjawal-04/OpenChat-Frontend',
+    image: '/image/ChatForge.JPG',
+    link: 'https://chatforge.vercel.app/',
+    github: 'https://github.com/ujjawal-04/ChatForge--frontend',
     tech: ['Next.js', 'Tailwind CSS', 'Firebase', 'Machine Learning', 'LangGraph']
   },
   {
