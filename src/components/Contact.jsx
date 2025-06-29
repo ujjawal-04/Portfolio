@@ -24,7 +24,7 @@ export default function Contact() {
     })
     
     // Add the access key to the form data
-    formData.append('access_key', 'f5338bf3-8179-468f-814e-bd48f7c4ed22')
+    formData.append('access_key', 'f5338bf3-8179-468f-814e-bd48f7c4e2')
 
     try {
       const response = await fetch('https://api.web3forms.com/submit', {
